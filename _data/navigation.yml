@@ -1,16 +1,5 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Honors & Awards"
-    url: /honors/    
-    
-  - title: "News"
-    url: /news/  
     
   - title: "Contact"
     url: /contact/
