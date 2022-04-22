@@ -9,8 +9,6 @@ redirect_from:
 ---
 * My research interests lie in the general area of robotics, particularly in soft robotics, multi-agent systems and deep learning.
 
-* I am a PhD student in [Department of Mechanical and Aerospace Engineering](https://www.mae.ucla.edu/) at [UC Los Angeles](https://www.ucla.edu/), advised by Prof. [M. Khalid Jawed](http://www.khalidjawed.com/) in [Structures-computer Interaction Lab](https://structures.computer/).
+* I am a PhD student in [Irell & Manella Graduate School of Biological Sciences](https://www.cityofhope.org/education/irell-and-manella-graduate-school-of-biological-sciences) at [City oh Hope](https://www.cityofhope.org/homepage), advised by Prof. [Peter Lee](https://www.cityofhope.org/people/lee-peter) in [Immuno-Oncology Core](https://www.cityofhope.org/research/shared-resources/immuno-oncology). 
 
-* I received my master degree in the [Department of Mechanical and Aerospace Engineering](http://maeweb.ucsd.edu/) at [UC San Diego](https://ucsd.edu/) in June 2021, advised by Prof. [Nicholas Gravish](http://web.eng.ucsd.edu/~ngravish/) in [Gravish Lab](http://gravishlab.ucsd.edu/index.html). 
-
-* I received my Bachelor’s Degree in [Beijing Institute of Technology](http://english.bit.edu.cn/) in July 2019. My undergraduate research concentrates on Unmanned Vehicle, advised by Prof. Xueyuan Li. During my senior year, I was a visiting student researcher at Dynamics and Vibration Control Lab in [University of Wollongong](https://www.uow.edu.au/), supervised by Senior Prof. [Weihua Li](https://scholars.uow.edu.au/display/weihua_li). 
+* I received my Bachelor’s Degree in the [Norman Bethune Health Science Center](http://jdyxb.jlu.edu.cn/en/index.htm) at [Jilin University](https://global.jlu.edu.cn/) in June 2017, major in Clinical Medicine.
