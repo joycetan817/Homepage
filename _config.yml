@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Homepage"
 description              : &description "personal academic homepage"
-url                      : https://zhuonanhao.github.io/Home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joycetan817.github.io/Homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuonanhao/home"
+repository               : "joycetan817/Homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuonan Hao"
+  name             : "Jiayi(Joyce) Tan"
   avatar           : "Zhuonan_Hao(square).jpg"
   bio              : 
-                    Ph.D in Mechanical and Aerospace Engineering <br>
-                    UC Los Angeles <br>
+                    Ph.D in Biology/Biological Sciences, General <br>
+                    City of Hope <br>
                     <br>
                     7400 Boelter Hall <br>
                     Los Angeles, CA 90095 <br>
